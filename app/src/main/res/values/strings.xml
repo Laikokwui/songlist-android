@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Song List</string>
+    <string name="pop">POP</string>
+    <string name="others">OTHERS</string>
+</resources>
